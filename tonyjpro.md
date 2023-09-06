@@ -1,3 +1,3 @@
 Layout: page
 title: "tonyjpro"
-permalink: /URL-PATH
+permalink: /tonyjpro.github.io/about
